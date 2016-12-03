@@ -1,0 +1,21 @@
+baseurl = "https://nathandonolli.com"
+languageCode = "en"
+title = "Nathan Donolli's House of Code"
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/tanksuzuki\">Asuka Suzuki</a> 2016"
+disqusShortname = "shortname"
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile", "javascript", "python"]
+
+[[params.social]]
+url = "https://github.com/ndonolli"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://www.linkedin.com/in/nathan-donolli-51384b54"
+fa_icon = "fa-linkedin"
