@@ -1,0 +1,32 @@
+{{ partial "header" . }}
+{{ partial "nav" . }}
+<section class="section">
+  <div class="container">
+    My name is Nathan and this is my internet home.  I like to write code and then
+    write things about the code here.  Please, make yourself at home.  If you need
+    anything just <a href="mailto:ndonolli@gmail.com">get in touch</a>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    {{ range sort .Paginator.Pages }}
+    <article>
+      <h2 class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</h2>
+      <h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
+      <div class="content">
+        {{ .Summary | plainify | safeHTML }}
+        {{ if .Truncated }}
+        ...<a class="button is-link" href="{{ .Permalink }}" style="height:28px">
+          Read more
+          <span class="icon is-small">
+            <i class="fa fa-angle-double-right"></i>
+          </span>
+        </a>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ partial "pager" . }}
+{{ partial "footer" . }}
