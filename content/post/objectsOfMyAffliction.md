@@ -1,6 +1,6 @@
 +++
 title = "The Objects of My Affliction"
-date = "2016-04-02T12:02:51-06:00"
+date = "2016-08-02T12:02:51-06:00"
 
 +++
 
