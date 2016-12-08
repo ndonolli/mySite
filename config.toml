@@ -1,6 +1,6 @@
 baseurl = "https://nathandonolli.com"
 languageCode = "en"
-title = "Nathan Donolli's House of Code"
+title = "Nathan's House of Code"
 theme = "hemingway"
 copyright = "&copy; <a href=\"https://github.com/tanksuzuki\">Asuka Suzuki</a> 2016"
 disqusShortname = "shortname"
