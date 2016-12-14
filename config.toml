@@ -1,4 +1,4 @@
-baseurl = "http://wwww.nathandonolli.com"
+baseurl = "https://serene-chamber-98808.herokuapp.com/"
 languageCode = "en"
 title = "Nathan's House of Code"
 theme = "hemingway"
