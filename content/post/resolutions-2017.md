@@ -1,4 +1,4 @@
-+++
+<!-- +++
 date = "2017-01-04T11:07:48-06:00"
 title = "My 2017 Javascript/non-Javascript Resolutions"
 
@@ -12,4 +12,4 @@ That being said, it's hard to set some measurable benchmarks for general javascr
 
 1. I want to master **every** new ES6 feature.  I want to be able to list off all new changes off the top of my head as well as deeply understanding the concepts of new keywords/features like `async`/`await`, and Symbols.
 
-2. I want to _really_ learn Typescript.  With the Angular project ~~skipping~~ adopting an appropriate versioning system over ng3, 
+2. I want to _really_ learn Typescript.  With the Angular project ~~skipping~~ adopting an appropriate versioning system over ng3,  -->
