@@ -33,8 +33,11 @@ Bear with me for a sec - this is how the `<Drawer>` component is rendered using 
 </Drawer>
 ```
 The problem I'm addressing has to do with the **animation** of the drawer open/close.  Mainly being:
+
 1. The drawer displaces the screen when opened
+
 2. The screen fades to white, where most native apps fade to black.
+
 3. The tween animation is rough and fast.
 
 All these issues can be solved by passing the right prop values into this component.  Take note:
