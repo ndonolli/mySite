@@ -4,7 +4,7 @@ title = "Getting Your React Native Drawer to Behave Juuuuuuust Right"
 
 +++
 
-The "native" half of React-native is why so many web developers get so giddy about it.  A technology that binds to native mobile platform APIs on top of the already-popular React library is a welcome addition to the new wave of web-to-mobile solutions, many of which rely on custom components rendered within webkit (which is also still great).  Where react-native shines is that your picker will look like an iOs picker, your buttons will fade that right way when you click it, and the app will just "feel" like a real app.
+The "native" half of React-native is why so many web developers get so giddy about it.  A technology that binds to native mobile platform APIs on top of the already-popular React library is a welcome addition to the new wave of web-to-mobile solutions, many of which rely on custom components rendered within webkit (which is also still great).  Where React-native shines is that your picker will look like an iOs picker, your buttons will fade that right way when you click it, and the app will just "feel" like a real app.
 
 Is this a reason to make the switch?  Not really.  The importance of having a "native feeling" app weighs on the product owner, and even within react-native, certain components aren't *quite* there yet.
 
