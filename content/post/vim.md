@@ -1,7 +1,7 @@
 +++
 date = "2017-05-02T23:04:33-05:00"
 title = "To vim or not to vim"
-
+draft = true
 +++
 
 I am not good with vim.  I use it for git commits and for when my *bash-fu* is not strong enough to make file changes with one command.  I like it better than nano.
