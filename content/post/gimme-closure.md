@@ -1,7 +1,6 @@
 +++
 title = "Let the fors flow through you"
 date = "2017-05-09T10:38:10-05:00"
-draft = true
 +++
 
 What's wrong with `var`?  Well, a great many things, but is it really that bad?  Kind of.
