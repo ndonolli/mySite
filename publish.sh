@@ -14,3 +14,8 @@ cd "${PWD}/public"
 git add .
 git commit -m "site build $(date)"
 ssh-agent bash -c "ssh-add /Users/ndonolli/.ssh/id_rsa; git push origin master"
+
+cd ..
+git add public
+git commit -m "site build $(date)"
+git push origin master
