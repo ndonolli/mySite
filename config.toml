@@ -5,6 +5,7 @@ theme = "hemingway"
 copyright = "&copy; <a href=\"https://github.com/tanksuzuki\">Asuka Suzuki</a> 2016"
 disqusShortname = "shortname"
 googleAnalytics = ""
+contentDir = "content/post"
 
 [params]
 
