@@ -8,6 +8,8 @@ I have a friend who was asked, during a coding interview, to write their own ver
 
 You tell me to recreate minesweeper on a whiteboard, and my first thought is _"well, at least the fall from this floor will definitely kill me"_.  But hey - I thought about what it would entail and figured I'd give myself my own coding interview, using basic javascript to create a basic minesweeper implementation in, oh say, an hour.  This post describes how I did it - the good, the bad, and the ugly - and how you can do it too.
 
+If you want to follow along, check out the [github repository](https://github.com/ndonolli/minesweeper-example) and the [live example](../../projects/minesweeper/).
+
 
 
 ## The "Whiteboard"
